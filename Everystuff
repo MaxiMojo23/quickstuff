@@ -1,4 +1,7 @@
 wBmEHAqkW6Cd9Aww
+
+wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
+
 Gaianet Node Info #1
 
 Node ID: 0x588db55d1e19e1c7ed6189f7e129539c1b1d1fdc
