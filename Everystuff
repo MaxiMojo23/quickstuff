@@ -1,5 +1,9 @@
 wBmEHAqkW6Cd9Aww
 
+Gaianet #3
+Node ID: 0x33776f45f0415932fe19aa4dbf96c812d3d59a95
+Device ID: device-ae8738812ac7ce5965fa612b
+
 wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
 
 Gaianet Node Info #1
